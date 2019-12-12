@@ -6,4 +6,4 @@ def #parrot(say="Squawk!")
   puts #{say}
 end
 
-parrot
+#parrot
