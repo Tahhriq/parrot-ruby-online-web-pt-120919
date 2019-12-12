@@ -7,6 +7,6 @@ def parrot(call=Squawk)
 end
 "Squawk!"
 
-def parrot(say="Squawk!", language="Ruby")
+def parrot(say="Squawk!")
   puts "Hello, #{name}. We heard you are a great #{language} programmer."
 end
